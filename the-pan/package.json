@@ -1,0 +1,2 @@
+{"name":"the-pan","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},
+"dependencies":{"next":"14.2.15","react":"18.3.1","react-dom":"18.3.1","mongodb":"6.9.0","jose":"5.9.3","bcryptjs":"2.4.3"}}
